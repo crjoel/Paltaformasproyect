@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <!-- Aquí puedes agregar cualquier variable de datos si es necesario -->
+    </data>
+
+    <TextView
+        android:id="@+id/textViewFavorite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Favorite Item" />
+
+</layout>
